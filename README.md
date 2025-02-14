@@ -8,6 +8,7 @@ This Power BI dashboard analyzes TV shows and movies available on Amazon Prime V
 
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-044AFcQk5e601SeS-rHSk_D25N3Lg-lTCA&s)
+
 **Because nothing says 'I have great taste in movies' like endlessly scrolling through Amazon Prime, only to watch the same show for the tenth time.**
 
 
